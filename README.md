@@ -1,2 +1,3 @@
 # snoopng.github.io
-snoopngus
+
+The official repository for the (maybe) snoopng label.
