@@ -11,3 +11,25 @@ h2{
     color: #e8e8e8;
     padding-left: 7px;
 }
+a:link {
+    color: #AEC6CF;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: #77DD77;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #3e49b0;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: rgb(255, 142, 161);
+    background-color: transparent;
+    text-decoration: underline;
+  }
