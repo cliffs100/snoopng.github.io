@@ -1,3 +1,43 @@
+html, body{
+  height: 100%;
+  width: 100%;  
+  background-color: #1f1f1f;
+}
 h1{
     text-align: center;
+    color: #e8e8e8;
 }
+h2{
+    text-align: left;
+    vertical-align: top;
+    color: #e8e8e8;
+    padding-left: 7px;
+}
+h3{
+  text-align: left;
+  vertical-align: top;
+  color: #e8e8e8;
+  padding-left: 7px;
+}
+a:link {
+    color: #00bbff;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: #77DD77;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #3e49b0;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: rgb(255, 142, 161);
+    background-color: transparent;
+    text-decoration: underline;
+  }
