@@ -1,4 +1,4 @@
-# snoopng.github.io
+# cliffs100.github.io
 
 The repository for the (maybe) snoopng label. <br/>
 under construction
